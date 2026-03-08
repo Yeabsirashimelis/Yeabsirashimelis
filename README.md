@@ -1,6 +1,6 @@
 # 💫 About Me
 
-TL;DR — I build backend systems, full‑stack applications, and infrastructure with a focus on performance, reliability, and developer experience.
+I build backend systems, full‑stack applications, and infrastructure with a focus on performance, reliability, and developer experience.
 
 I design and implement efficient systems and clean architectures at Eaglepoint AI and in multiple side projects. I enjoy working on distributed systems, developer tooling, and high‑performance services using Rust, Go, and TypeScript. Ask me about backend architecture, Kafka, microservices, performance engineering, or systems design.
 
